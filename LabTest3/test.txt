@@ -1,0 +1,5 @@
+10001-ipod:Best Buy:89.67
+10002-ipod:Kmart:106.34
+10003-harddrive:Walmart:34.45
+10004-harddrive:Target:55.67
+10005-harddrive:Ebay:32.23

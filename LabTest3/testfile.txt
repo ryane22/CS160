@@ -1,0 +1,4 @@
+10001-ipod:Best Buy:89.67
+10002-ipod:Kmart:106.34
+10003-ipod:Target:115.65
+10004-ipod:Walmart:99.67
